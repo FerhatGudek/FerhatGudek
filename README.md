@@ -8,9 +8,13 @@ I am a physicist with a deep passion for software development. My goal is to syn
 - 🧪 **My Mission:** To re-blend physics principles with software, creating unique algorithms for data science and deploying them via robust ML models.
 - 🌱 **Learning:** Advanced Deep Learning architectures and high-performance computing for physical simulations.
 - 👯 **Collaboration:** I'm open to collaborating on **Physics-informed AI**, Machine Learning models, and projects that require a deep analytical approach.
-  
-  ![Ferhat'ın Dilleri](https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&layout=compact&theme=vision-friendly-dark)
-  
+
+---
+
+### 📊 GitHub Stats
+
+![Ferhat'ın İstatistikleri](https://github-readme-stats.vercel.app/api?username=FerhatGudek&show_icons=true&theme=vision-friendly-dark&count_private=true)
+![Ferhat'ın En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&layout=compact&theme=vision-friendly-dark)
 
 ---
 
@@ -20,12 +24,6 @@ I am a physicist with a deep passion for software development. My goal is to syn
 - **AI/ML:** Machine Learning, Deep Learning, Predictive Maintenance (RUL)
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch)
 - **Domain:** Defense Industry, Rocketry, Simulation Data Processing
-
----
-
-### 📊 GitHub Stats
-![Ferhat's Stats](https://github-readme-stats.vercel.app/api?username=FerhatGudek&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&layout=compact&theme=radical)
 
 ---
 
