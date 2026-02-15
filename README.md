@@ -8,9 +8,9 @@ I am a physicist with a deep passion for software development. My goal is to syn
 - 🧪 **My Mission:** To re-blend physics principles with software, creating unique algorithms for data science and deploying them via robust ML models.
 - 🌱 **Learning:** Advanced Deep Learning architectures and high-performance computing for physical simulations.
 - 👯 **Collaboration:** I'm open to collaborating on **Physics-informed AI**, Machine Learning models, and projects that require a deep analytical approach.
-  ---
-  ![Ferhat'ın En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatgudek10&layout=compact&theme=vision-friendly-dark)
-  ---
+  
+  [![Ferhat'ın Dilleri](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatgudek10&layout=compact&theme=vision-friendly-dark)](https://github.com/ferhatgudek10)
+  
 
 ---
 
