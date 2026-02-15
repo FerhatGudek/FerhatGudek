@@ -11,11 +11,15 @@ I am a physicist with a deep passion for software development. My goal is to syn
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Yazılım Dili Dağılımı ve İstatistikler
 
-![Ferhat'ın İstatistikleri](https://github-readme-stats.vercel.app/api?username=FerhatGudek&show_icons=true&theme=vision-friendly-dark&count_private=true&cache_seconds=1800)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
-![Ferhat'ın En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&layout=compact&theme=vision-friendly-dark&cache_seconds=1800)
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FerhatGudek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+</p>
 
 ---
 
