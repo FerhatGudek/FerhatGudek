@@ -13,9 +13,9 @@ I am a physicist with a deep passion for software development. My goal is to syn
 
 ### 📊 GitHub Stats
 
-![Ferhat'ın İstatistikleri](https://github-readme-stats.vercel.app/api?username=ferhatgudek10&show_icons=true&theme=vision-friendly-dark&count_private=true)
+![Ferhat'ın İstatistikleri](https://github-readme-stats.vercel.app/api?username=FerhatGudek&show_icons=true&theme=vision-friendly-dark&count_private=true&cache_seconds=1800)
 
-![Ferhat'ın En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatgudek10&layout=compact&theme=vision-friendly-dark)
+![Ferhat'ın En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&layout=compact&theme=vision-friendly-dark&cache_seconds=1800)
 
 ---
 
