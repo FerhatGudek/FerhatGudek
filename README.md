@@ -20,7 +20,9 @@ I am a physicist with a deep passion for software development. My goal is to syn
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FerhatGudek&theme=vision-friendly-dark&hide_border=false" />
 </p>
-
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=FerhatGudek&show_icons=true&theme=vision-friendly-dark&hide=stars,commits,rank&show=reviews,prs,issues&count_private=true" />
+</p>
 ---
 
 ### 🛠️ Tech Stack & Skills
