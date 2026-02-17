@@ -1,4 +1,4 @@
-# Hi there, I'm Ferhat Güdek! 👋
+## Hi there, I'm Ferhat Güdek! 👋
 
 ### 🛰️ Physicist & AI Enthusiast | Bridging Physics with Machine Learning
 
@@ -12,7 +12,7 @@ I am a physicist with a deep passion for software development. My goal is to syn
 ### 📊 Yazılım ve Geliştirme İstatistikleri
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&layout=compact&theme=vision-friendly-dark&langs_count=10&show_icons=true&count_private=true&show=reviews,prs,issues" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&langs_count=10&layout=compact&theme=vision-friendly-dark&hide_border=false&count_private=true" />
 </p>
 
 ---
