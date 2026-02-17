@@ -1,4 +1,4 @@
-## Hi there, I'm Ferhat Güdek! 👋
+# Hi there, I'm Ferhat Güdek! 👋
 
 ### 🛰️ Physicist & AI Enthusiast | Bridging Physics with Machine Learning
 
@@ -6,13 +6,15 @@ I am a physicist with a deep passion for software development. My goal is to syn
 
 - 🔭 **Currently Working On:** Developing **RUL (Remaining Useful Life)** models for rocket systems.
 - 🧪 **My Mission:** To re-blend physics principles with software, creating unique algorithms for data science.
+- 🌱 **Learning:** Advanced Deep Learning architectures and high-performance computing for physical simulations.
+- 👯 **Collaboration:** I'm open to collaborating on **Physics-informed AI**, Machine Learning models, and projects that require a deep analytical approach.
 
 ---
 
 ### 📊 Yazılım ve Geliştirme İstatistikleri
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&langs_count=10&layout=compact&theme=vision-friendly-dark&hide_border=false&count_private=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FerhatGudek&theme=vision-friendly-dark&hide_border=false" />
 </p>
 
 ---
