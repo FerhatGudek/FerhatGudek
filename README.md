@@ -12,11 +12,7 @@ I am a physicist with a deep passion for software development. My goal is to syn
 ### 📊 Yazılım ve Geliştirme İstatistikleri
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&langs_count=10&layout=compact&theme=vision-friendly-dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=FerhatGudek&show_icons=true&theme=vision-friendly-dark&hide=stars,commits,rank&show=reviews,prs,issues&count_private=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&layout=compact&theme=vision-friendly-dark&langs_count=10&show_icons=true&count_private=true&show=reviews,prs,issues" />
 </p>
 
 ---
@@ -33,7 +29,5 @@ I am a physicist with a deep passion for software development. My goal is to syn
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/ferhat-güdek-8aa9a32b7/)
 - 📧 [Email](mailto:ferhat.gudek10@gmail.com)
-
-"Combining the laws of the universe with the power of code." 🚀
 
 "Combining the laws of the universe with the power of code." 🚀
