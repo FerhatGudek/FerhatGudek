@@ -33,6 +33,8 @@ I am a physicist with a deep passion for software development. My goal is to syn
 - 📧 [Email](mailto:ferhat.gudek10@gmail.com)
 
 "Combining the laws of the universe with the power of code." 🚀
+- **Python (ML/DL/Data)** ![70%](https://progress-bar.dev/70/?scale=100&title=Python&width=200&color=3776ab)
+- **SQL (Analysis)** ![15%](https://progress-bar.dev/15/?scale=100&title=SQL&width=200&color=00758f)
 
 #### 🛠️ Tech Stack & Libraries
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
