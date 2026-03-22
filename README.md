@@ -34,4 +34,10 @@ I am a physicist with a deep passion for software development. My goal is to syn
 
 "Combining the laws of the universe with the power of code." 🚀
 
-[![Ferhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FERHAT-GUDEK&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+#### 🛠️ Tech Stack & Libraries
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-777BB4?style=flat-square&logo=numpy)](https://numpy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)](https://git-scm.com/)
