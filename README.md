@@ -34,4 +34,4 @@ I am a physicist with a deep passion for software development. My goal is to syn
 
 "Combining the laws of the universe with the power of code." 🚀
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=FERHAT-GUDEK&layout=compact&theme=vision-friendly-dark)
+[![Ferhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FERHAT-GUDEK&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
