@@ -1,9 +1,9 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi there, I'm Ferhat Güdek!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:00c8ff&height=220&section=header&text=Physicist%20%26%20AI%20Enthusiast&fontSize=45&animation=fadeIn&fontAlignY=40&fontColor=ffffff" alt="Header" />
+  <img src="https://img.shields.io/badge/Physicist-AI%20Enthusiast-00c8ff?style=for-the-badge&logo=physics&logoColor=white" alt="Header Badge" height="40" />
+  <img src="https://img.shields.io/badge/Data_Science-Machine_Learning-FF6F00?style=for-the-badge&logo=simpleanalytics&logoColor=white" alt="Header Badge" height="40" />
 </p>
-
 ### 🛰️ Bridging Physics with Machine Learning
 
 I am a physicist with a deep passion for software development. My goal is to synthesize my strong background in **Physics** with modern **AI, Machine Learning, and Deep Learning** algorithms to create innovative, data-driven solutions.
