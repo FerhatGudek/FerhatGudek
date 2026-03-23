@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Physicist-AI%20Enthusiast-00c8ff?style=for-the-badge&logo=physics&logoColor=white" alt="Header Badge" height="40" />
   <img src="https://img.shields.io/badge/Data_Science-Machine_Learning-FF6F00?style=for-the-badge&logo=simpleanalytics&logoColor=white" alt="Header Badge" height="40" />
 </p>
-### 🛰️ Bridging Physics with Machine Learning
+### 🛰️ PHYSICS WITH DATA AND AI APPLICATIONS
 
 I am a physicist with a deep passion for software development. My goal is to synthesize my strong background in **Physics** with modern **AI, Machine Learning, and Deep Learning** algorithms to create innovative, data-driven solutions.
 
@@ -38,7 +38,7 @@ I am a physicist with a deep passion for software development. My goal is to syn
 
 ---
 
-### 📊 Yazılım ve Geliştirme İstatistikleri
+### 📊 MY STATISTICS
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FerhatGudek&theme=vision-friendly-dark&hide_border=false" alt="Ferhat's Streak Stats" />
@@ -51,7 +51,7 @@ I am a physicist with a deep passion for software development. My goal is to syn
 
 ---
 
-### 📫 Let's Connect (The Big Guns)
+### 📫 Let's Connect GARDAS
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ferhat-güdek-8aa9a32b7/" target="_blank">
