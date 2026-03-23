@@ -1,8 +1,16 @@
-# Hi there, I'm Ferhat Güdek! 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi there, I'm Ferhat Güdek!
 
-### 🛰️ Physicist & AI Enthusiast | Bridging Physics with Machine Learning
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:00c8ff&height=220&section=header&text=Physicist%20%26%20AI%20Enthusiast&fontSize=45&animation=fadeIn&fontAlignY=40&fontColor=ffffff" alt="Header" />
+</p>
+
+### 🛰️ Bridging Physics with Machine Learning
 
 I am a physicist with a deep passion for software development. My goal is to synthesize my strong background in **Physics** with modern **AI, Machine Learning, and Deep Learning** algorithms to create innovative, data-driven solutions.
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR4NnN5OWpxM2Qxd2EybG90Z3ZmdXBybzh6Mjh3MTh1cTFyMGl4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw,L43w,D2s,W2s,S2s,H2s,P2s,R2s,O2s,G2s,R2s,A2s,M2s,S2s,M2s,O2s,T2s,I2s,V2s,E2s,C2s,O2s,N2s,T2s,R2s,O2s,L2s,E2s,D2s,S2s,Y2s,S2s,T2s,E2s,M2s,S2s,/3o7bu3XilJ5BOiSGic/giphy.gif" width="400px" alt="Rocket Physics Control">
+</p>
 
 - 🔭 **Currently Working On:** Developing **RUL (Remaining Useful Life)** models for rocket systems.
 - 🧪 **My Mission:** To re-blend physics principles with software, creating unique algorithms for data science.
@@ -11,34 +19,50 @@ I am a physicist with a deep passion for software development. My goal is to syn
 
 ---
 
-### 📊 Yazılım ve Geliştirme İstatistikleri
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FerhatGudek&theme=vision-friendly-dark&hide_border=false" />
-</p>
-
----
-
 ### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="50" height="50"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="sql" width="50" height="50"/> </a>
+</p>
 
 - **Core:** Physics-Based Modeling, Data Science, Algorithm Design
 - **AI/ML:** Machine Learning, Deep Learning, Predictive Maintenance (RUL)
-- **Programming:** Python (NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch), SQL
+- **Programming:** Python, SQL
 - **Domain:** Defense Industry, Rocketry, Simulation Data Processing
 
 ---
 
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ferhat-güdek-8aa9a32b7/)
-- 📧 [Email](mailto:ferhat.gudek10@gmail.com)
+### 📊 Yazılım ve Geliştirme İstatistikleri
 
-"Combining the laws of the universe with the power of code." 🚀
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FerhatGudek&theme=vision-friendly-dark&hide_border=false" alt="Ferhat's Streak Stats" />
+</p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FerhatGudek&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Ferhat's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerhatGudek&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Ferhat's Top Languages" />
+</p>
 
-#### 🛠️ Tech Stack & Libraries
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/-NumPy-777BB4?style=flat-square&logo=numpy)](https://numpy.org/)
-[![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)](https://git-scm.com/)
+---
+
+### 📫 Let's Connect (The Big Guns)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ferhat-güdek-8aa9a32b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ferhat.gudek10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50">
+  </a>
+</p>
+
+<p align="center">
+  <em>"Combining the laws of the universe with the power of code."</em> 🚀
+</p>
